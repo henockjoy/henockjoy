@@ -38,6 +38,13 @@
 ## 🎯 **Education**  
 🎓 **Bachelor of Computer Applications (BCA)** 
 
+### **Certifications**  
+- 🧠 **Generative Artificial Intelligence in the Classroom – Possibilities and Perils: A View from Singapore (VMFT)**  
+- 🤖 **Student Development Programme - Generative AI (Lourdes Matha College of Science and Technology)**  
+- 💻 **Professional Software Developer (G-TEC Computer Education)**  
+- 🌟 **Edu-Fest 2017 (Govt of Kerala, Department of Fisheries)**  
+- 🔧 **IT Vacation Programme (KELTRON)**  
+
 ---
 
 ## 📈 **GitHub Stats**  
