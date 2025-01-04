@@ -1,4 +1,4 @@
-# 🌟 **Hello, I'm [Your Name]!** 🌟  
+# 🌟 **Hello, I'm Henock!** 🌟  
 **Aspiring Developer | Tech Enthusiast**  
 💻 Passionate about coding, web technologies, and crafting efficient solutions for real-world problems.  
 
