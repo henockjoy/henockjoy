@@ -36,8 +36,7 @@
 ---
 
 ## 🎯 **Education**  
-🎓 **Bachelor of Computer Applications (BCA)**  
-*Graduated with a strong foundation in programming, database management, and software development.*
+🎓 **Bachelor of Computer Applications (BCA)** 
 
 ---
 
